@@ -60,7 +60,7 @@ $(function() {
        	    hintContent: 'Москва, м. Дубровка ул. Шарикоподшипниковская, д. 13 '
        }, {
        					iconLayout: 'default#image',
-       					iconImageHref: '../img/map/icon-pin.png',
+       					iconImageHref: 'img/map/icon-pin.png',
        					iconImageSize: [29, 43],
        					iconImageOffset: [-10, -42]
        });
